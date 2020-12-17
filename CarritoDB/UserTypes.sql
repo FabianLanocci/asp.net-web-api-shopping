@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[UserTypes]
+(
+	[TypeId] INT  IDENTITY(1,1) NOT NULL, 
+    [Name] VARCHAR(72) NOT NULL
+	CONSTRAINT PK_UserTypeId PRIMARY KEY (TypeId),
+)

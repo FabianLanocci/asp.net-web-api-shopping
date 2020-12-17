@@ -1,0 +1,10 @@
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\CarritoDB\bin\Debug\CarritoDB.dacpac
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\CarritoDB\bin\Debug\CarritoDB.dll
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\CarritoDB\bin\Debug\CarritoDB.pdb
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\CarritoDB\obj\Debug\CarritoDB.sqlprojAssemblyReference.cache
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\CarritoDB\obj\Debug\CarritoDB.dll
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\CarritoDB\obj\Debug\CarritoDB.pdb
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\CarritoDB\obj\Debug\Model.xml
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\CarritoDB\obj\Debug\refactor.xml
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\CarritoDB\obj\Debug\postdeploy.sql
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\CarritoDB\obj\Debug\predeploy.sql

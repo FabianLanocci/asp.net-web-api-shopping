@@ -1,0 +1,12 @@
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\Repositories\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\Repositories\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\fabia\Desktop\Facultad\Práctica Profesional\Carrito\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
